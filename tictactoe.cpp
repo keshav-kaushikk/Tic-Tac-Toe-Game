@@ -389,12 +389,12 @@ public:
 
 int main()
 {
-    std::cout << "Game Start!\n\n";
-    std::cout << " 1 | 2 | 3\n";
-    std::cout << "-----------\n";
-    std::cout << " 4 | 5 | 6\n";
-    std::cout << "-----------\n";
-    std::cout << " 7 | 8 | 9\n\n";
+    cout << "Game Start!\n\n";
+    cout << " 1 | 2 | 3\n";
+    cout << "-----------\n";
+    cout << " 4 | 5 | 6\n";
+    cout << "-----------\n";
+    cout << " 7 | 8 | 9\n\n";
     ttt game;
 
     int choice;
